@@ -1,0 +1,5 @@
+{
+  "name": "Fleet Maintenance Pro",
+  "description": "An application to monitor and manage preventive and corrective maintenance for a vehicle fleet. It features a dashboard for scheduling upcoming services based on vehicle mileage, and tracks maintenance routines, parts, and suppliers.",
+  "requestFramePermissions": []
+}
